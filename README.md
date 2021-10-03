@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @mlhmz
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java Web (Servlets and GWT)
-- 📫 How to reach me malek.hamza@gmx.de
+- 👀 I’m interested in Web Technologies and Java Enterprise Development
+- 📫 How to reach me malek.hamza@outlook.de
