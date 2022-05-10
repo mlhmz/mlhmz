@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @mlhmz
 - 👀 I’m interested in Web Technologies and Java Enterprise Development
+- 📚 I’m currently learning Go!
 - 📫 How to reach me malek.hamza@outlook.de
